@@ -69,3 +69,8 @@ Norms:
 [Robert Axelrod and William D. Hamilton, The Evolution of Cooperation](https://ee.stanford.edu/~hellman/Breakthrough/book/pdfs/axelrod.pdf)
 
 [Robert Axelrod, An Evolutionary Approach to Norms](https://www.jstor.org/stable/1960858)
+
+## Credits for Code Base
+
+https://github.com/projectmesa/mesa-schelling-example/tree/master
+
